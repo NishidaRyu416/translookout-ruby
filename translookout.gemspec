@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["NishidaRyu416"]
   spec.email         = ["nishidaryu416@gmail.com"]
 
-  spec.summary       = "Translookout's client"
-  spec.description   = "Translookout is an API which helps you to monitor your users."
+  spec.summary       = %q{Translookout's client}
+  spec.description   = %q{Translookout is an API which helps you to monitor your users.}
   spec.homepage      = "http://www.translookout.work/"
   spec.license       = "MIT"
 
@@ -25,3 +25,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
 end
+
